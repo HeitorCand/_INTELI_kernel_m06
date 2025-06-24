@@ -9,11 +9,10 @@ Este projeto implementa um bootloader básico que:
 - Lê a entrada do teclado
 - Exibe uma mensagem de boas-vindas personalizada
 
-## Demonstração
+## Demonstração (Vídeo)
+Assista à demonstração do funcionamento do bootloader no seguinte link:
 
 https://drive.google.com/file/d/13ddSeb36el8PDR434pv8uAhHjPQCZWXo/view?usp=sharing
-
-*Vídeo demonstrativo: [Gravação de Tela 2025-06-23 às 22.18.08.mov](Gravação%20de%20Tela%202025-06-23%20às%2022.18.08.mov)*
 
 ## Arquivos
 
