@@ -1,6 +1,6 @@
 # Kernel Assembly - Boot Sector
 
-Um simples bootloader/kernel escrito em Assembly x86 que interage com o usuário.
+Um simples bootloader/kernel escrito em Assembly x16 que interage com o usuário.
 
 ## Descrição
 
